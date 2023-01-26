@@ -2,7 +2,7 @@
 *1.0.0 windows version of My Awesome Adventure(TM).*
 
 - Download link for game: https://drive.google.com/file/d/1Qen10d82koeiIwSSXF7OIycUOUN7aQ9g/view?usp=sharing
-  * Download file and double click .exe file to play the game!
+  * Download the file from Google Drive and double click the .exe file to play the game!
  
 - Play the game online: https://liluo.io/legothepup/my-awesome-adventure
    * Click the link to play the game! (Recommended to put the game in fullscreen once it loads)
