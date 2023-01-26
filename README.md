@@ -16,3 +16,10 @@ CONTROLS:
 * E - Interact with NPCS/Items
 * Left Click - Interact with Buttons
 * Esc - Settings
+
+- In Game Photos:
+![image](https://user-images.githubusercontent.com/119627309/214939920-d5ab8627-8435-4916-b442-6e02b903d8d3.png)
+
+![image](https://user-images.githubusercontent.com/119627309/214940049-bf138b2f-c764-4544-99cd-d387656c63a5.png)
+
+![image](https://user-images.githubusercontent.com/119627309/214940314-189f3343-31ad-49c8-b1b2-82e6a7720841.png)
