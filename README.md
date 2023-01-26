@@ -1,5 +1,5 @@
 # My-Awesome-Adventure-1.0.0
-*1.0.0 windows version of My Awesome Adventure(TM).
+*1.0.0 windows version of My Awesome Adventure(TM).*
 
 - Download link for game: https://drive.google.com/file/d/1Qen10d82koeiIwSSXF7OIycUOUN7aQ9g/view?usp=sharing
   * Download file and double click .exe file to play the game!
@@ -11,7 +11,7 @@
 
 - Hello! This is the 1.0.0 version of my game, My Awesome Adventure, for a school project! I have plenty of ideas on how to improve the game which should release over time, So make sure to stick around for more updates!
 
-- CONTROLS:
+CONTROLS:
 * Arrow Keys - Movement
 * E - Interact with NPCS/Items
 * Left Click - Interact with Buttons
