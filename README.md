@@ -3,14 +3,14 @@
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-- Download link for game: https://drive.google.com/file/d/1Qen10d82koeiIwSSXF7OIycUOUN7aQ9g/view?usp=sharing
+- Download link for v1.0.0 of game: https://drive.google.com/file/d/1Qen10d82koeiIwSSXF7OIycUOUN7aQ9g/view?usp=sharing
   * Download the file from Google Drive, extract the .zip*, and double click the .exe file to play the game!
   * Recommended over online link for better performance
   * *Make sure to extract the .zip file into a folder specifically for the game to not cause issues with other files
  
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-- Play the online version: https://liluo.io/legothepup/my-awesome-adventure
+- Play the 1.0.0 online version: https://liluo.io/legothepup/my-awesome-adventure
    * Click the link to play the game!
    * Recommended to put the game in fullscreen once it loads for better experience
 
