@@ -27,7 +27,8 @@ CONTROLS:
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-- In Game Photos:
+In Game Screenshots:
+
 ![image](https://user-images.githubusercontent.com/119627309/214939920-d5ab8627-8435-4916-b442-6e02b903d8d3.png)
 
 ![image](https://user-images.githubusercontent.com/119627309/214940049-bf138b2f-c764-4544-99cd-d387656c63a5.png)
