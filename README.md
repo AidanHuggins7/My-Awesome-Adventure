@@ -35,13 +35,7 @@ SOME UPDATES MAY INCLUDE:
 * Speed running leaderboard
 * And much much more I haven't decided on yet!
 
-*I'm not sure how long it will be inbetween game updates, but I'll make sure to create a page that will hold future updates at some point!*
-
------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-**DONE** ~ 1.0: Base *My Awesome Adventure* Game.
-
---> **Current Update** ~ 1.1: Implementing Quests, updating text boxes, control menu to replace tutorial screen, additional lore, and more QoL improvements to better the user's experience.
+*Please go to the discussions tab to learn about current and future plans/updates to the game!*
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
