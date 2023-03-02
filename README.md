@@ -20,18 +20,16 @@
 
 - Hello! This is the 1.0.0 version of my game, My Awesome Adventure, for a school project! I have plenty of ideas on how to improve the game which should release over time, So make sure to stick around for more updates!
 
-SOME UPDATES MAY INCLUDE:
+SOME UPDATES INCLUDE:
 * Main and Side Quests
 * More NPCs to talk to and battle with
 * Mini Cutscenes to further story
 * Larger Maps to hold more secrets
 * Improved Text Boxes and Ability to skip text or fasten its pace
-* Actual leveling system to balance game and make bosses or difficult and fun
-* More bosses and levels
-* Inventory for holding multiple monsters
-* Ability to catch monsters **OR** Ability to buy monsters with currency system (Not decided which of the two will be implemented)
-* Type advantages/disadvantages
-* Loads more items to use in battle
+* Actual leveling system to balance game and make bosses more difficult and fun
+* More bosses
+* More Maps
+* More items to use in battle
 * Speed running leaderboard
 * And much much more I haven't decided on yet!
 
